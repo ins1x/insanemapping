@@ -1405,6 +1405,7 @@ ul.contact {
 ul.pagination {
   cursor: default;
   list-style: none;
+  padding-top: 2em;
   padding-left: 0; }
   ul.pagination li {
     display: inline-block;
@@ -1945,8 +1946,9 @@ button,
     position: relative;
     width: 26em; }
     #sidebar > .inner > * {
-      border-bottom: solid 2px rgba(210, 215, 217, 0.75);
-      margin: 0 0 3.5em 0;
+      /*border-bottom: solid 2px rgba(210, 215, 217, 0.75);*/
+      border-bottom: solid 2px #f56a6a;
+      margin: 0 0 1.5em 0;
       padding: 0 0 3.5em 0; }
       #sidebar > .inner > * > :last-child {
         margin-bottom: 0; }
@@ -2197,6 +2199,18 @@ button,
   font-size: 0.9em; }
   #footer .copyright a {
     color: inherit; }
+
+.endline {
+  display: flow-root;
+  border-top: solid 5px #f56a6a;
+  padding: -6em 0 1em 0;
+  padding-top: -6em;
+  position: relative;
+}
+
+.endline-ul {
+  float: right;
+}
 
 /* Menu */
 #menu ul {
