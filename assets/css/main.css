@@ -1170,6 +1170,12 @@ input[type="radio"] + label:before {
   color: #9fa3a6 !important;
   opacity: 1.0; }
 
+/* MArkers */
+.markers {
+  padding-right: 5px;
+  list-style-type: "\25ba";
+}
+
 /* Box */
 .box {
   border-radius: 0.375em;
