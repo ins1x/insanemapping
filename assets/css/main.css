@@ -1239,9 +1239,15 @@ input[type="radio"] + label:before {
   .image.fit {
     display: block;
     margin: 0 0 2em 0;
-    width: 100%; }
+    width: 100%; 
+    overflow: hidden; }
     .image.fit img {
       width: 100%; }
+  .image.fit:hover img {
+    -moz-transform: scale(1.075);
+    -webkit-transform: scale(1.075);
+    -ms-transform: scale(1.075);
+    transform: scale(1.075);}
   .image.main {
     display: block;
     margin: 0 0 3em 0;
