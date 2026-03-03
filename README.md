@@ -61,7 +61,8 @@ GTA SA:MP/Open.mp mapping showroom
 [![99-9-Fd1f-EX](https://i.ibb.co/4RdYR0XM/99-9-Fd1f-EX.jpg)](https://ibb.co/album/PxjDx7)
 [![266-l-DUyfr-O](https://i.ibb.co/MDLbVNgh/266-l-DUyfr-O.jpg)](https://ibb.co/album/ZWBfnf)
 [![322-0-Hzfhu-S](https://i.ibb.co/chChhHW0/322-0-Hzfhu-S.jpg)](https://ibb.co/album/HLRNZJ)
-
+[![mg-29-07-2023](https://i.ibb.co/twVBVHB3/mg-29-07-2023-16-47-16-0.png)](https://ibb.co/album/jVxwDJ)
+[![mg-03-02-2026](https://i.ibb.co/gF6frvm4/mg-03-02-2026-10-56-32-1.png)](https://ibb.co/album/KjG9Mj)
 [Scripting](https://ins1x.github.io/insanemapping/scripting.html)
 -------------------------------------
 
