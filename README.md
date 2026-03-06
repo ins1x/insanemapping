@@ -99,7 +99,3 @@ A set of utilities for mapping and development in Grand Theft Auto
 **[Other multiplayer's mapping tools](https://ins1x.github.io/insanemapping/tools.html#other-tools)**  
 
 -------------------------
-[GTA 1NSANE MAPPING](https://ins1x.github.io/insanemapping/)  
-| [YouTube](https://www.youtube.com/@1nsanemapping/featured) 
-| [Git](https://github.com/ins1x) 
-| [Google Drive](https://drive.google.com/drive/folders/1lcpwx0405Kmtm468Bj-rG-gVybwRLt5Z?usp=drive_link) |
